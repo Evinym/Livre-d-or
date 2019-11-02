@@ -1,0 +1,30 @@
+label {
+	display: block;
+	margin: 5px 0;
+}
+
+#container-flex{
+	display: flex;
+	margin: 10px 0px;
+}
+
+.divBook{
+ height: 60vh;
+ width: 80vw;
+ display: flex;
+ align-items: center;
+justify-content: space-around
+}
+
+.divBookImg{
+	height: 100%;
+}
+
+.logo-num-comtenaire{
+    height: 70px;
+    width: 70px;   
+}
+.logo-num{
+    height: 100%;
+    width: 100%;   
+}

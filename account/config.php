@@ -1,13 +1,10 @@
 <?php
 $host= "localhost";
-$username= "root";
-$password= " ( *** ) ";
+$username= "joris";
+$password= "kms2580!";
 $dbname= "livredor";
 $dsn= "mysql:host=$host;dbname=$dbname";
 $options= array(
     PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION
 );
-
 ?>
-
-( ***) tcheck your account  ;)
